@@ -1,3 +1,28 @@
+![Captura de Tela (144)](https://github.com/PauloAquarius0299/image-gallery-next/assets/114706743/08a199ed-747d-460c-bf8c-c2a635a0e280)
+
+# 📷 Galeria de Imagens Next 
+Criei uma interface interativa usando Next, TypeScript, a API unsplash, a biblioteca do JQuery e estilizei com Tailwind CSS 
+## 🖼️ Introdução 
+A interface de imagens é intuitiva e dinamica, onde o usuario consegue navegar pela barra de pesquisa e pesquisar por qualquer tipo de imagem em qualquer idioma, a estilização do background black garante um destaque maior das imagens e conformo do usuario de utlizar. O usuario consegue baixar a imagem pra sua galeria graças a biblioteca do saveAs.
+### 💡 Pre-Requisitos 
+* Intalação do React com Next e JQuery
+* Estilização do Talwind css
+* Utilização da API unsplash Image
+```
+https://unsplash.com/developers
+```
+### 🛠️ Ferramentas 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📷 Intarface 
+![Captura de Tela (145)](https://github.com/PauloAquarius0299/image-gallery-next/assets/114706743/666c0450-d4aa-4bab-910e-3adcaa82dc41)
+### Borboleta em Alemão
+![Captura de Tela (146)](https://github.com/PauloAquarius0299/image-gallery-next/assets/114706743/57de8865-be9f-4832-9728-090cd4a5901d)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
